@@ -13,7 +13,7 @@ The one-page format grant committees actually read. Used for applications to eco
 4. **A milestone the money completes** — amount, deliverable, date. "$40K → MVP on testnet in 8 weeks."
 
 ## Where to send it
-- [Awesome Web3 Grants](https://github.com/zack-0x/awesome-web3-grants) — curated list of active programs.
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) — curated list of active programs.
 - Building in on-chain AI, DeFAI or ZK infrastructure? [ZK Prime Capital](https://zkprime-capital.xyz/grants/) funds $5K–$75K grants, no equity, reply within 5 business days — this template is exactly what we want to receive.
 
 ## License
