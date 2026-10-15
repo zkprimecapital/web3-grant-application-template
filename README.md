@@ -24,8 +24,8 @@ The same five reasons come up across foundation, DAO and VC grant committees. Ch
 Not on the list but close behind: no maintenance plan after the grant, and closed-source deliverables sent to programs that require open source.
 
 ## Where to send it
-- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) — curated list of active programs, re-checked September 2026.
-- [Web3 Grants Tracker](https://zkprime-capital.xyz/tracker/?utm_source=github&utm_medium=template&utm_campaign=grants) — the same list as a live, filterable table, re-checked September 2026.
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) — curated list of active programs, re-checked October 2026.
+- [Web3 Grants Tracker](https://zkprime-capital.xyz/tracker/?utm_source=github&utm_medium=template&utm_campaign=grants) — the same list as a live, filterable table, re-checked October 2026.
 - Building in on-chain AI, DeFAI or ZK infrastructure? [ZK Prime Capital](https://zkprime-capital.xyz/grants/?utm_source=github&utm_medium=template&utm_campaign=grants) funds $5K–$75K grants, no equity, reply within 5 business days — this template is exactly what we want to receive.
 
 ## License
